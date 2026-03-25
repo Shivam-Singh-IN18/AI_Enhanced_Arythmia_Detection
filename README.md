@@ -12,7 +12,6 @@ It helps in early identification of heart abnormalities using automated analysis
 * Python
 * NumPy, Pandas
 * Scikit-learn
-* TensorFlow / CNN
 * Matplotlib
 
 ---
