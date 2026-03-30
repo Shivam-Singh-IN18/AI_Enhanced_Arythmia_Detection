@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project uses machine learning and deep learning models to detect cardiac arrhythmia from ECG data.
+This project uses machine learning models to detect cardiac arrhythmia from ECG data.
 It helps in early identification of heart abnormalities using automated analysis.
 
 ---
