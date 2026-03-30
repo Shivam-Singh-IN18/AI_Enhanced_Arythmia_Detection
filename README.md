@@ -18,7 +18,6 @@ It helps in early identification of heart abnormalities using automated analysis
 
 ## 🧠 Models Used
 
-* CNN (best performance)
 * Random Forest
 * SVM
 * XGBoost
@@ -28,7 +27,7 @@ It helps in early identification of heart abnormalities using automated analysis
 
 ## 📊 Results
 
-* CNN achieved highest accuracy (~89%)
+* Achieved highest accuracy (~89%)
 * Random Forest provided good balance between speed and accuracy
 
 ---
